@@ -1,0 +1,52 @@
+
+body {
+    background-color: green;
+}
+
+.imageButton {
+    cursor: pointer;
+    position: absolute;
+    top: 450px;
+    left: 0px;
+}
+
+#perk1div {
+    top: 16px;
+    left: 574px;
+}
+
+#perk2div {
+    top: 138px;
+    left: 450px;
+}
+
+#perk3div {
+    top: 138px;
+    left: 700px;
+}
+
+#perk4div {
+    top: 260px;
+    left: 574px;
+}
+
+div {
+    position: absolute;
+    top: 16px;
+    left: 574px;
+    height: 256px;
+    width: 256px;
+}
+
+div.click-to-top span {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 150px;
+    background: #333;
+    color: #fff;
+  }
+  
+  div.click-to-top:hover span {
+    display: block;
+  }
