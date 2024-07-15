@@ -1,4 +1,6 @@
-
+html {
+    height: 100%;
+}
 body {
     background-color: green;
     height: 100%;
