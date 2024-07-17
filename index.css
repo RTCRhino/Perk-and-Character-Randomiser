@@ -4,33 +4,40 @@ html {
 body {
     background-color: green;
     height: 100%;
+    margin: 0;
 }
+
+.portrait {
+    position: absolute;
+    top: -30px;
+}
+
 
 .imageButton {
     cursor: pointer;
     position: absolute;
-    top: 450px;
-    left: 0px;
+    top: 0px;
+    left: 500px;
 }
 
 #perk1div {
-    top: 16px;
-    left: 574px;
+    top: 390px;
+    left: 133px;
 }
 
 #perk2div {
-    top: 138px;
-    left: 450px;
+    top: 523px;
+    left: 0;
 }
 
 #perk3div {
-    top: 138px;
-    left: 700px;
+    top: 523px;
+    left: 266px;
 }
 
 #perk4div {
-    top: 260px;
-    left: 574px;
+    top: 656px;
+    left: 133px;
 }
 
 div {
